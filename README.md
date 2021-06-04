@@ -1,1 +1,4 @@
-# BattleShip-team-project-
+# BattleShip-team-project
+
+The game of battleship is typically played with two players, each of which place 5 ships of various sizes on a 10 x 10 grid. Each player on a turn by turn basis attempts to place a shot where the opponent has placed a ship. Of course, your opponent can not see where you have placed your ships and you cannot see where the opponent has placed their ships. You typically call out shots to try and find and sink each of the ships. The player that can sink all the opponent ships. The first player to sink all the other ships is the Winner. For a more complete description see Battleship.
+In this instance of BattleShip the API you have been provided will randomly place 5 ships (lengths 2,3,3,4,5) on the board. A total of 17 spaces on the board out of 100 will have a ship. Once you obtain 17 hits you have solved the game. Your goal is to achieve the lowest average number of shots when the game is played 10000 times. There are many different strategies that can be used to solve this problem.
